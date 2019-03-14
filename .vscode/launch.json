@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Depuración",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceRoot}/Prueba",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true
+        }
+    ]
+}

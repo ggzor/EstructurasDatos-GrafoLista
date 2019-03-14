@@ -1,0 +1,12 @@
+Cardinalidad: 11
+a: b c d .
+b: e f .
+c: b d .
+d: f g .
+e: h i .
+f: e g .
+g: i j .
+h: i k .
+i: j k .
+j: k .
+k: .
